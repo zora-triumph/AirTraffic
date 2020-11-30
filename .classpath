@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="resource/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="resource/kafka-clients-2.3.0.jar"/>
+	<classpathentry kind="lib" path="resource/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="resource/slf4j-nop-1.6.1.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/hbase-client-1.4.12.jar"/>
+	<classpathentry kind="lib" path="resource/gson-2.2.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/hbase-server-1.4.12.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/guava-12.0.1.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/hadoop-auth-2.7.4.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/hadoop-common-2.7.4.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/hbase-common-1.4.12.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/hbase-protocol-1.4.12.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/htrace-core-3.1.0-incubating.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/netty-all-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/zookeeper-3.4.10.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="resource/hbase/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="resource/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="lib/zstd-jni-1.4.3-1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.8.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
